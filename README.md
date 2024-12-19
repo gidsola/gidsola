@@ -1,5 +1,1 @@
-### Hi there 👋
-
-- ⚡ Fun fact: A shrimp's heart is in its head.  
-- 🔭 Currently expanding my education through learning.
-- 📫 How to reach me: goodsie.ca (eventually)
+![Alt text](https://c.tenor.com/99HIOHQ0l00AAAAd/tenor.gif)
