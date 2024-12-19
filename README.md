@@ -1,4 +1,5 @@
-![Alt text](https://c.tenor.com/99HIOHQ0l00AAAAd/tenor.gif)  ![](https://komarev.com/ghpvc/?username=gidsola)  
+![](https://komarev.com/ghpvc/?username=gidsola)    
+![Alt text](https://c.tenor.com/99HIOHQ0l00AAAAd/tenor.gif)  
 
 
 
