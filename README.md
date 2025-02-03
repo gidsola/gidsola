@@ -1,5 +1,3 @@
-<img height="500" align="center" src="Relaxing-in-the-space-4k.png"/>
-
 <div align="center">
   <img height=195 src="https://c.tenor.com/99HIOHQ0l00AAAAd/tenor.gif"/>
   <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=gidsola&theme=dracula&card_width=150"/>
