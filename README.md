@@ -1,5 +1,5 @@
 
-<img align="center" src="contributions.svg"/>
+<img src="contributions.svg"/>
 
 <div>
   <img height=200 align="left" src="https://my-stats-43gk.vercel.app/api?username=gidsola&show_icons=true&theme=onedark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
