@@ -13,5 +13,5 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gidsola&theme=dracula&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </div>
-
+[![Gen Image](https://github.com/gidsola/gidsola/actions/workflows/main.yml/badge.svg)](https://github.com/gidsola/gidsola/actions/workflows/main.yml)
 <img align="right" src="https://komarev.com/ghpvc/?username=gidsola&style=plastic&color=blueviolet"/>
