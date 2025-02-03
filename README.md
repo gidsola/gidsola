@@ -11,10 +11,10 @@
   <img src="https://my-stats-43gk.vercel.app/api?username=gidsola&show_icons=true&theme=onedark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </div>
 
-<div>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gidsola&theme=onedark&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=gidsola&style=plastic&color=blueviolet"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=gidsola&style=plastic&color=blueviolet"/>
 
 
 
