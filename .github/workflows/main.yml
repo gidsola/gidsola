@@ -28,7 +28,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.gidsola }}
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/gidsola-contribution.svg
             dist/gidsola-contribution-dark.svg?palette=github-dark
