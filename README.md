@@ -1,5 +1,3 @@
-<div style="background-color:rgba(0, 0, 0, 0.0470588)>
-  
 <div align="center">
   <img height=195 src="https://c.tenor.com/99HIOHQ0l00AAAAd/tenor.gif"/>
   <img src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=gidsola&theme=dracula&card_width=150"/>
@@ -16,7 +14,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gidsola&theme=dracula&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </div>
 <img align="right" src="https://komarev.com/ghpvc/?username=gidsola&style=plastic&color=blueviolet"/>
-
-
-
-</div>
