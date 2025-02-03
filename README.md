@@ -13,4 +13,5 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gidsola&theme=dracula&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </div>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=gidsola&style=plastic&color=blueviolet"/>
