@@ -3,7 +3,7 @@
   <img src="https://github-readme-streak-stats-git-main-gidsolas-projects.vercel.app/?user=gidsola&theme=dracula&card_width=150"/>
 </div>
 
-<img align="center" src="contributions.svg"/>
+<img align="center" src="gidsola-contributions.svg"/>
 
 <div align="center">
   <img height=170 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=gidsola&hide=html,scss,css&langs_count=8&layout=compact&theme=dracula&card_width=100" />
