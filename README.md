@@ -1,7 +1,7 @@
-<div>
+<!--<div>-->
 <!--   <img src="https://github.com/gidsola/gidsola/actions/workflows/main.yml/badge.svg"/> -->
-  <img align="right" src="https://komarev.com/ghpvc/?username=gidsola&style=plastic&color=blueviolet"/>
-</div>
+  <img src="https://komarev.com/ghpvc/?username=gidsola&style=plastic&color=blueviolet"/>
+<!-- </div> -->
 
 <div align="center">
   <img height=195 src="https://c.tenor.com/99HIOHQ0l00AAAAd/tenor.gif"/>
