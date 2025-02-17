@@ -26,6 +26,9 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -37,3 +40,12 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: gidsola-contribution-dark.svg?palette=github-dark
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add gidsola-contribution-new.svg gidsola-contribution-dark.svg
+          git commit -m 'Add generated SVG files'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
