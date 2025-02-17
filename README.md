@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/gidsola/gidsola/actions/workflows/main.yml/badge.svg"/>
+<!--   <img src="https://github.com/gidsola/gidsola/actions/workflows/main.yml/badge.svg"/> -->
   <img align="right" src="https://komarev.com/ghpvc/?username=gidsola&style=plastic&color=blueviolet"/>
 </div>
 
