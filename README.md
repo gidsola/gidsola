@@ -15,7 +15,7 @@
 
 <div align="center">
   <img height=195 src="https://c.tenor.com/99HIOHQ0l00AAAAd/tenor.gif"/>
- [![GitHub Streak](https://github-readme-streak-stats-omega-snowy.vercel.app?user=gidsola)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-omega-snowy.vercel.app?user=gidsola" alt="GitHub Streak" /></a>
 </div>
 
 <img align="center" src="gidsola-contribution-dark.svg"/>
